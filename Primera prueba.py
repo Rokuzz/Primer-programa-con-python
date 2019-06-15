@@ -1,6 +1,6 @@
 print("Hola, como te llamas?")
-name = input("Nombre: ")
+nom = input("Nombre:")
 print("Cuantos años tienes?")
-age = int(input("edad: "))
+edat = int(input("Edad: "))
 
-print("Hola", name, "el año que viene tendras", age+1, años)
+print("Hola",nom,"en tu pròximo aniversario cumpliras", edat + 1, "años")
